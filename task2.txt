@@ -1,0 +1,2 @@
+создал папку , зашел в гитхаб подключил его к ssh-keygen открыл notepad скопировал и добавил его в гитхаб и начал добавлять 
+git init , git add README.md, git commit -m "first commit", git branch -M main ,git remote add origin и git push -uorigin main
